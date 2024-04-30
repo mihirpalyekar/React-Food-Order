@@ -1,0 +1,72 @@
+{
+    "info": {
+        "id": "28283",
+        "name": "Chinese Wok",
+        "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
+        "locality": "Chembur",
+        "areaName": "Chembur",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+            "Chinese",
+            "Asian",
+            "Tibetan",
+            "Desserts"
+        ],
+        "avgRating": 4.3,
+        "parentId": "61955",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 32,
+            "lastMileTravel": 4.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "4.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-04-23 02:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹179"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-38f96398-b084-4caf-a7fe-c29dcc4224f2"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/chinese-wok-chembur-mumbai-28283",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
